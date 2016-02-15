@@ -1,0 +1,22 @@
+{
+  "name": "newnodedir2",
+  "version": "1.0.0",
+  "description": "Web Colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhennessey1/node1.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhennessey1/node1/issues"
+  },
+  "homepage": "https://github.com/jhennessey1/node1#readme",
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
